@@ -1,0 +1,12 @@
+{"type": "dispatched", "data": {"session": "bQdMO19c", "item_id": "MDU6SXNzdWUzMzY0NjM0MTc=", "packet_chars": 14370, "fit": "fit", "diff_valve_dropped": 0}}
+{"type": "route", "data": {"session": "bQdMO19c", "item_id": "MDU6SXNzdWUzMzY0NjM0MTc=", "verdict": "lsp-support", "note": "long-running feature request for LSP client support; closed won't-do in favor of external micro-plugin-lsp"}}
+{"type": "dispatched", "data": {"session": "bQdMO19c", "item_id": "MDU6SXNzdWUxNDkwMDAyODU=", "packet_chars": 54912, "fit": "fit", "diff_valve_dropped": 0}}
+{"type": "route", "data": {"session": "bQdMO19c", "item_id": "MDU6SXNzdWUxNDkwMDAyODU=", "verdict": "debian-packaging", "note": "long thread tracking effort to get micro packaged for apt/Debian; eventually succeeded, micro entered official Debian repos and Ubuntu 20.04"}}
+{"type": "dispatched", "data": {"session": "bQdMO19c", "item_id": "MDU6SXNzdWUxNjEyODUwMjY=", "packet_chars": 22997, "fit": "fit", "diff_valve_dropped": 0}}
+{"type": "route", "data": {"session": "bQdMO19c", "item_id": "MDU6SXNzdWUxNjEyODUwMjY=", "verdict": "autocompletion", "note": "long thread on autocompletion; core added simple buffer-word autocomplete natively (2019) plus command/filename completion, but full language-aware autocomplete deferred to LSP plugins (see lsp-support)"}}
+{"type": "dispatched", "data": {"session": "bQdMO19c", "item_id": "MDU6SXNzdWUxNzQxNzY2MTI=", "packet_chars": 14242, "fit": "fit", "diff_valve_dropped": 0}}
+{"type": "route", "data": {"session": "bQdMO19c", "item_id": "MDU6SXNzdWUxNzQxNzY2MTI=", "verdict": "file-tree-sidebar", "note": "long debate on adding a file-tree/sidebar to core; community leaned toward keeping micro a lean editor (not IDE) and resolved via plugins (filetree-plugin, filemanager)"}}
+{"type": "dispatched", "data": {"session": "bQdMO19c", "item_id": "MDU6SXNzdWUxNTI3OTA0NzY=", "packet_chars": 36769, "fit": "fit", "diff_valve_dropped": 0}}
+{"type": "route", "data": {"session": "bQdMO19c", "item_id": "MDU6SXNzdWUxNTI3OTA0NzY=", "verdict": "clipboard-behavior", "note": "long-running copy/paste confusion thread; explains micro's clipboard model (internal/terminal/external, xclip/xsel dependency, ssh limitations), later improved with OSC52 terminal clipboard support"}}
+{"type": "snapshot", "data": {"token": "b3Cf1JCn", "topic": "clipboard-behavior", "digest": "64430dbc1ea0f218936d591e78592a08b3b511f9e92843df78df77946d3eeba6"}}
+{"type": "close", "data": {"token": "b3Cf1JCn", "topic": "clipboard-behavior"}}
