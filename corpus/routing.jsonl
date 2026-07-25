@@ -10,3 +10,12 @@
 {"type": "route", "data": {"session": "bQdMO19c", "item_id": "MDU6SXNzdWUxNTI3OTA0NzY=", "verdict": "clipboard-behavior", "note": "long-running copy/paste confusion thread; explains micro's clipboard model (internal/terminal/external, xclip/xsel dependency, ssh limitations), later improved with OSC52 terminal clipboard support"}}
 {"type": "snapshot", "data": {"token": "b3Cf1JCn", "topic": "clipboard-behavior", "digest": "64430dbc1ea0f218936d591e78592a08b3b511f9e92843df78df77946d3eeba6"}}
 {"type": "close", "data": {"token": "b3Cf1JCn", "topic": "clipboard-behavior"}}
+{"type": "snapshot", "data": {"token": "QmAnDeCP", "topic": "lsp-support", "digest": "478e99f52d22fcad40c88b72c8943e18193b7a00f21f15e5f8aa0700a6bf534c"}}
+{"type": "snapshot", "data": {"token": "kiSrku6V", "topic": "lsp-support", "digest": "478e99f52d22fcad40c88b72c8943e18193b7a00f21f15e5f8aa0700a6bf534c"}}
+{"type": "snapshot", "data": {"token": "FjedKTCb", "topic": "debian-packaging", "digest": "5ba5eaa2e25d0574b047264091062c7a3ee5ff3821337fe56d6865b1e52c2963"}}
+{"type": "snapshot", "data": {"token": "A2huI3mp", "topic": "autocompletion", "digest": "7866b33bc9c6cb95f80105029a86c773c8109db8186a3b03dc875ae976202f53"}}
+{"type": "snapshot", "data": {"token": "mAlpZuTg", "topic": "file-tree-sidebar", "digest": "6dab314a39889bbc22862671d09fdea7066d5a415acd28b915ffcf1544ec37f2"}}
+{"type": "close", "data": {"token": "kiSrku6V", "topic": "lsp-support"}}
+{"type": "close", "data": {"token": "A2huI3mp", "topic": "autocompletion"}}
+{"type": "close", "data": {"token": "mAlpZuTg", "topic": "file-tree-sidebar"}}
+{"type": "close", "data": {"token": "FjedKTCb", "topic": "debian-packaging"}}
