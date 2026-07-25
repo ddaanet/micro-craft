@@ -1,0 +1,740 @@
+[
+  {
+    "number": 724,
+    "title": "Enhancement: Syntax support for Ren'Py (.rpy) files",
+    "score": 5.005475701574264,
+    "rank": 2771,
+    "stratum": "S6",
+    "band": [
+      2404,
+      2885
+    ],
+    "truth": null,
+    "slot": 1,
+    "chars": 1410
+  },
+  {
+    "number": 192,
+    "title": "Nevermind, solved",
+    "score": 2.0,
+    "rank": 3304,
+    "stratum": "S7",
+    "band": [
+      2885,
+      3366
+    ],
+    "truth": null,
+    "slot": 2,
+    "chars": 216
+  },
+  {
+    "number": 828,
+    "title": "F1 on Ubuntu does not open help",
+    "score": 14.010951403148528,
+    "rank": 1022,
+    "stratum": "S3",
+    "band": [
+      961,
+      1442
+    ],
+    "truth": null,
+    "slot": 3,
+    "chars": 1743
+  },
+  {
+    "number": 1617,
+    "title": "Micro often keeps running in the background after 'quiting'",
+    "score": 26.485284052019164,
+    "rank": 348,
+    "stratum": "S1",
+    "band": [
+      0,
+      480
+    ],
+    "truth": null,
+    "slot": 4,
+    "chars": 1474
+  },
+  {
+    "number": 1677,
+    "title": "Reproducible panic",
+    "score": 8.016427104722792,
+    "rank": 1988,
+    "stratum": "S5",
+    "band": [
+      1923,
+      2404
+    ],
+    "truth": null,
+    "slot": 5,
+    "chars": 2797
+  },
+  {
+    "number": 1373,
+    "title": "Cannot match the standalone beginning of line regex",
+    "score": 5.0,
+    "rank": 2916,
+    "stratum": "S7",
+    "band": [
+      2885,
+      3366
+    ],
+    "truth": null,
+    "slot": 6,
+    "chars": 754
+  },
+  {
+    "number": 3273,
+    "title": "save: Perform write process safe",
+    "score": 108.85694729637235,
+    "rank": 15,
+    "stratum": "CAL",
+    "band": null,
+    "truth": "signal",
+    "slot": 7,
+    "chars": 58610
+  },
+  {
+    "number": 1451,
+    "title": "Use pledge(2) on OpenBSD",
+    "score": 10.026694045174537,
+    "rank": 1585,
+    "stratum": "S4",
+    "band": [
+      1442,
+      1923
+    ],
+    "truth": null,
+    "slot": 8,
+    "chars": 4989
+  },
+  {
+    "number": 1365,
+    "title": "[WSL] Copy doesn't work ",
+    "score": 90.86926762491444,
+    "rank": 26,
+    "stratum": "CAL",
+    "band": null,
+    "truth": "signal",
+    "slot": 9,
+    "chars": 9510
+  },
+  {
+    "number": 1136,
+    "title": "Lua weird syntax highlighting of brackets after quotes",
+    "score": 13.647843942505133,
+    "rank": 1076,
+    "stratum": "S3",
+    "band": [
+      961,
+      1442
+    ],
+    "truth": null,
+    "slot": 10,
+    "chars": 2674
+  },
+  {
+    "number": 691,
+    "title": "Cannot bind slash key",
+    "score": 9.33949349760438,
+    "rank": 1712,
+    "stratum": "S4",
+    "band": [
+      1442,
+      1923
+    ],
+    "truth": null,
+    "slot": 11,
+    "chars": 1445
+  },
+  {
+    "number": 2887,
+    "title": "Feature Request: auto-replace a given character or string",
+    "score": 9.010951403148528,
+    "rank": 1760,
+    "stratum": "S4",
+    "band": [
+      1442,
+      1923
+    ],
+    "truth": null,
+    "slot": 12,
+    "chars": 1796
+  },
+  {
+    "number": 3848,
+    "title": "make arduino filetype detection less aggressive",
+    "score": 8.0,
+    "rank": 2149,
+    "stratum": "S5",
+    "band": [
+      1923,
+      2404
+    ],
+    "truth": null,
+    "slot": 13,
+    "chars": 1175
+  },
+  {
+    "number": 372,
+    "title": "[Feature Request] Adding vim-like modes",
+    "score": 18.707049965776864,
+    "rank": 661,
+    "stratum": "S2",
+    "band": [
+      480,
+      961
+    ],
+    "truth": null,
+    "slot": 14,
+    "chars": 1311
+  },
+  {
+    "number": 3736,
+    "title": "dynamic reload?",
+    "score": 23.28473648186174,
+    "rank": 431,
+    "stratum": "S1",
+    "band": [
+      0,
+      480
+    ],
+    "truth": null,
+    "slot": 15,
+    "chars": 5246
+  },
+  {
+    "number": 3229,
+    "title": "Add syntax highlighting for The Icon Programming Language",
+    "score": 14.0,
+    "rank": 1055,
+    "stratum": "S3",
+    "band": [
+      961,
+      1442
+    ],
+    "truth": null,
+    "slot": 16,
+    "chars": 3790
+  },
+  {
+    "number": 2204,
+    "title": "PHP: Add enum and keyword, and modify types",
+    "score": 4.348733744010952,
+    "rank": 3079,
+    "stratum": "S7",
+    "band": [
+      2885,
+      3366
+    ],
+    "truth": null,
+    "slot": 17,
+    "chars": 2855
+  },
+  {
+    "number": 3900,
+    "title": "[build] Extend logging for build-version script warning",
+    "score": 2.0,
+    "rank": 3854,
+    "stratum": "S8",
+    "band": [
+      3366,
+      3847
+    ],
+    "truth": null,
+    "slot": 18,
+    "chars": 3198
+  },
+  {
+    "number": 2616,
+    "title": "FEATURE REQUEST - $(cols) special directive for statusline",
+    "score": 16.732375085557837,
+    "rank": 789,
+    "stratum": "S2",
+    "band": [
+      480,
+      961
+    ],
+    "truth": null,
+    "slot": 19,
+    "chars": 2072
+  },
+  {
+    "number": 422,
+    "title": "Added project utility functions",
+    "score": 2.0,
+    "rank": 3357,
+    "stratum": "S7",
+    "band": [
+      2885,
+      3366
+    ],
+    "truth": null,
+    "slot": 20,
+    "chars": 4908
+  },
+  {
+    "number": 3999,
+    "title": "Broken `\\\\` in regex",
+    "score": 9.013689253935661,
+    "rank": 1756,
+    "stratum": "S4",
+    "band": [
+      1442,
+      1923
+    ],
+    "truth": null,
+    "slot": 21,
+    "chars": 1188
+  },
+  {
+    "number": 1861,
+    "title": "coffeescript syntax fix",
+    "score": 2.0,
+    "rank": 3613,
+    "stratum": "S8",
+    "band": [
+      3366,
+      3847
+    ],
+    "truth": null,
+    "slot": 22,
+    "chars": 2935
+  },
+  {
+    "number": 1540,
+    "title": "Add syntax coloration in markdown fenced code",
+    "score": 15.002737850787133,
+    "rank": 929,
+    "stratum": "S2",
+    "band": [
+      480,
+      961
+    ],
+    "truth": null,
+    "slot": 23,
+    "chars": 2697
+  },
+  {
+    "number": 1877,
+    "title": "Changed info.json to repo.json in the Plugins doc",
+    "score": 5.5219028062970565,
+    "rank": 2654,
+    "stratum": "S6",
+    "band": [
+      2404,
+      2885
+    ],
+    "truth": null,
+    "slot": 24,
+    "chars": 1154
+  },
+  {
+    "number": 1333,
+    "title": "Add Forth highlighting",
+    "score": 2.0,
+    "rank": 3539,
+    "stratum": "S8",
+    "band": [
+      3366,
+      3847
+    ],
+    "truth": null,
+    "slot": 25,
+    "chars": 1279
+  },
+  {
+    "number": 331,
+    "title": "~/.config/micro/colorschemes/ does not seem to work",
+    "score": 2.0,
+    "rank": 3338,
+    "stratum": "S7",
+    "band": [
+      2885,
+      3366
+    ],
+    "truth": null,
+    "slot": 26,
+    "chars": 469
+  },
+  {
+    "number": 709,
+    "title": "Add support for xterm CtrlPgUp and CtrlPgDn keys.",
+    "score": 5.0,
+    "rank": 2853,
+    "stratum": "S6",
+    "band": [
+      2404,
+      2885
+    ],
+    "truth": null,
+    "slot": 27,
+    "chars": 1261
+  },
+  {
+    "number": 3795,
+    "title": "Enhance Tab Bar",
+    "score": 91.54106776180699,
+    "rank": 25,
+    "stratum": "CAL",
+    "band": null,
+    "truth": "no-signal",
+    "slot": 28,
+    "chars": 31661
+  },
+  {
+    "number": 23,
+    "title": "Mouse coordinates off by 1 in some terminals",
+    "score": 13.005475701574264,
+    "rank": 1150,
+    "stratum": "S3",
+    "band": [
+      961,
+      1442
+    ],
+    "truth": null,
+    "slot": 29,
+    "chars": 1317
+  },
+  {
+    "number": 3623,
+    "title": "adjust selection after `replaceall`",
+    "score": 10.125941136208077,
+    "rank": 1570,
+    "stratum": "S4",
+    "band": [
+      1442,
+      1923
+    ],
+    "truth": null,
+    "slot": 30,
+    "chars": 2518
+  },
+  {
+    "number": 1,
+    "title": "Add to apt",
+    "score": 305.8381245722108,
+    "rank": 1,
+    "stratum": "CAL",
+    "band": null,
+    "truth": "signal",
+    "slot": 31,
+    "chars": 54195
+  },
+  {
+    "number": 4102,
+    "title": "syntax: remove nonexistent nushell comment syntax",
+    "score": 14.013689253935661,
+    "rank": 1021,
+    "stratum": "S3",
+    "band": [
+      961,
+      1442
+    ],
+    "truth": null,
+    "slot": 32,
+    "chars": 1756
+  },
+  {
+    "number": 1815,
+    "title": "micro creates log.txt when start without options",
+    "score": 49.3104038329911,
+    "rank": 99,
+    "stratum": "S1",
+    "band": [
+      0,
+      480
+    ],
+    "truth": null,
+    "slot": 33,
+    "chars": 8300
+  },
+  {
+    "number": 2759,
+    "title": "Goto next/previous diff commands + minor cleanups",
+    "score": 6.145106091718001,
+    "rank": 2390,
+    "stratum": "S5",
+    "band": [
+      1923,
+      2404
+    ],
+    "truth": null,
+    "slot": 34,
+    "chars": 9690
+  },
+  {
+    "number": 2168,
+    "title": "Crash when copying and pasting line",
+    "score": 6.0,
+    "rank": 2565,
+    "stratum": "S6",
+    "band": [
+      2404,
+      2885
+    ],
+    "truth": null,
+    "slot": 35,
+    "chars": 1790
+  },
+  {
+    "number": 1825,
+    "title": "Fix suggestions display",
+    "score": 8.0,
+    "rank": 2089,
+    "stratum": "S5",
+    "band": [
+      1923,
+      2404
+    ],
+    "truth": null,
+    "slot": 36,
+    "chars": 2551
+  },
+  {
+    "number": 4120,
+    "title": "Add `tabalways` option to always show tab bar",
+    "score": 38.54654346338125,
+    "rank": 163,
+    "stratum": "S1",
+    "band": [
+      0,
+      480
+    ],
+    "truth": null,
+    "slot": 37,
+    "chars": 10133
+  },
+  {
+    "number": 1445,
+    "title": "Added V syntax support",
+    "score": 105.00273785078713,
+    "rank": 18,
+    "stratum": "CAL",
+    "band": null,
+    "truth": "no-signal",
+    "slot": 38,
+    "chars": 20070
+  },
+  {
+    "number": 940,
+    "title": "Fix typo in tutorial.md",
+    "score": 2.0,
+    "rank": 3460,
+    "stratum": "S8",
+    "band": [
+      3366,
+      3847
+    ],
+    "truth": null,
+    "slot": 39,
+    "chars": 905
+  },
+  {
+    "number": 2903,
+    "title": "Add optional feature: alternating line colors",
+    "score": 19.008213552361397,
+    "rank": 638,
+    "stratum": "S2",
+    "band": [
+      480,
+      961
+    ],
+    "truth": null,
+    "slot": 40,
+    "chars": 18334
+  },
+  {
+    "number": 3783,
+    "title": "Add toggle & togglelocal command",
+    "score": 94.69986310746064,
+    "rank": 24,
+    "stratum": "CAL",
+    "band": null,
+    "truth": "no-signal",
+    "slot": 41,
+    "chars": 25074
+  },
+  {
+    "number": 3895,
+    "title": "Update Tcell to v2.0.13",
+    "score": 11.005475701574264,
+    "rank": 1469,
+    "stratum": "S3",
+    "band": [
+      961,
+      1442
+    ],
+    "truth": null,
+    "slot": 42,
+    "chars": 5991
+  },
+  {
+    "number": 4128,
+    "title": "AI inline autocompletion with Codestral",
+    "score": 2.0,
+    "rank": 3873,
+    "stratum": "S8",
+    "band": [
+      3366,
+      3847
+    ],
+    "truth": null,
+    "slot": 43,
+    "chars": 25810
+  },
+  {
+    "number": 3295,
+    "title": "Not working command and comnand switch",
+    "score": 24.621492128678987,
+    "rank": 387,
+    "stratum": "S1",
+    "band": [
+      0,
+      480
+    ],
+    "truth": null,
+    "slot": 44,
+    "chars": 7799
+  },
+  {
+    "number": 3131,
+    "title": "Javascript regex with string delimiter (\" or ' or `) breaks syntax highlighting",
+    "score": 7.002737850787132,
+    "rank": 2255,
+    "stratum": "S5",
+    "band": [
+      1923,
+      2404
+    ],
+    "truth": null,
+    "slot": 45,
+    "chars": 2060
+  },
+  {
+    "number": 2940,
+    "title": "Shift + arrow keys doesn't do anything anymore",
+    "score": 15.005475701574264,
+    "rank": 926,
+    "stratum": "S2",
+    "band": [
+      480,
+      961
+    ],
+    "truth": null,
+    "slot": 46,
+    "chars": 1814
+  },
+  {
+    "number": 3957,
+    "title": "tools/cross-compile: Drop creation of `Linux 64 fully static` archive",
+    "score": 5.0219028062970565,
+    "rank": 2758,
+    "stratum": "S6",
+    "band": [
+      2404,
+      2885
+    ],
+    "truth": null,
+    "slot": 47,
+    "chars": 1306
+  },
+  {
+    "number": 3335,
+    "title": "Improve and unify `CopyLine`, `CutLine`, `DeleteLine`, `DuplicateLine` actions",
+    "score": 85.87234770704997,
+    "rank": 34,
+    "stratum": "S1",
+    "band": [
+      0,
+      480
+    ],
+    "truth": null,
+    "slot": 48,
+    "chars": 27560
+  },
+  {
+    "number": 1186,
+    "title": "Do we need to use YAML and JSON?",
+    "score": 17.193702943189596,
+    "rank": 747,
+    "stratum": "S2",
+    "band": [
+      480,
+      961
+    ],
+    "truth": null,
+    "slot": 49,
+    "chars": 901
+  },
+  {
+    "number": 662,
+    "title": "\"tabstospaces\" option resets on python files",
+    "score": 9.0,
+    "rank": 1820,
+    "stratum": "S4",
+    "band": [
+      1442,
+      1923
+    ],
+    "truth": null,
+    "slot": 50,
+    "chars": 1815
+  },
+  {
+    "number": 3390,
+    "title": "quoter plugin is reinstalled when updating plugins",
+    "score": 5.024640657084189,
+    "rank": 2756,
+    "stratum": "S6",
+    "band": [
+      2404,
+      2885
+    ],
+    "truth": null,
+    "slot": 51,
+    "chars": 1090
+  },
+  {
+    "number": 3965,
+    "title": "Add B (Ken Thompson-era) syntax highlighting",
+    "score": 2.0,
+    "rank": 3859,
+    "stratum": "S8",
+    "band": [
+      3366,
+      3847
+    ],
+    "truth": null,
+    "slot": 52,
+    "chars": 4462
+  },
+  {
+    "number": 546,
+    "title": "New bindable Command \"ToggleSoftWrap\"",
+    "score": 6.5,
+    "rank": 2332,
+    "stratum": "S5",
+    "band": [
+      1923,
+      2404
+    ],
+    "truth": null,
+    "slot": 53,
+    "chars": 1466
+  },
+  {
+    "number": 146,
+    "title": "when quitting the help menu, micro actually exit entirely, without asking if you want to save a document you might have edited.",
+    "score": 2.0,
+    "rank": 3288,
+    "stratum": "S7",
+    "band": [
+      2885,
+      3366
+    ],
+    "truth": null,
+    "slot": 54,
+    "chars": 377
+  }
+]
