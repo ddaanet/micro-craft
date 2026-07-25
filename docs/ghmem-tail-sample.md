@@ -112,6 +112,11 @@ independent estimate of ~331.
 | **heat ≥ 6** | **2601** | **219** | **104** | **100%** |
 | heat ≥ 2  | 3847  | 323    | 0     | 100%                 |
 
+The "signal kept" column reads 100% at heat 6 because the cold strata
+contained no signal items, not because the true rate there is zero. A
+fitted model puts a top-2601 budget at 82% of expected signal; see
+`ghmem-heat-weights.md`.
+
 Cutting at heat 6 drops a third of the sweep — 1246 items, 104 spawns —
 and forgoes nothing the sample could detect. Everything below it is the
 long flat plateau where heat stops discriminating anyway: 3266 of 3847
@@ -119,6 +124,12 @@ items sit at heat ≤ 2, tie-broken by issue number, which means the
 ordering down there is close to arbitrary.
 
 ## The threshold is in provisional units
+
+> Superseded. The wider draw in `ghmem-heat-weights.md` fitted the
+> weights and kept the installed ones — the ranking does not change, so
+> the rescaling this section anticipates never happens, and the 415
+> boundary-sensitive items below are moot. What follows is what n=54
+> said.
 
 `HEAT_WEIGHTS` is marked PROVISIONAL, to be calibrated in subproject 4.
 So "heat ≥ 6" is a number in units that do not exist yet: recalibration
@@ -159,6 +170,12 @@ So the recommendation has a robust core and a soft edge:
   goes 33% → 0% on six items a side.
 
 ## The weights themselves look wrong
+
+> Superseded, and this section is where the caveat in its last paragraph
+> proved decisive. At n=198, drawn without stratifying on the score,
+> `related_items` is weak alone but earns its weight conditionally, and
+> `comments` alone loses to the composite once weighted back to the
+> corpus. See `ghmem-heat-weights.md`.
 
 The 54 items carry both a full metric vector and a signal label produced
 without routing, which makes this the first evidence in the project that

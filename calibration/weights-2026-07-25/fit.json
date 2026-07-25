@@ -1,0 +1,73 @@
+{
+  "n": 198,
+  "signal": 75,
+  "ridge": 1.0,
+  "coef": {
+    "comments": 0.10686411755511813,
+    "reactions": -0.01491881556783117,
+    "participants": 0.2702326046643212,
+    "related_items": 0.2430659490549974,
+    "span_years": 0.03596614068334262
+  },
+  "stderr": {
+    "comments": 0.05002260225126575,
+    "reactions": 0.03687501288144631,
+    "participants": 0.1699683788670563,
+    "related_items": 0.1324863898820046,
+    "span_years": 0.10963839861642735
+  },
+  "boot_ci": {
+    "comments": [
+      0.007933879027659454,
+      0.29874136302970583
+    ],
+    "reactions": [
+      -0.1251679161586312,
+      0.15397142480445042
+    ],
+    "participants": [
+      -0.110420523712579,
+      0.7398764567786492
+    ],
+    "related_items": [
+      -0.04270839827106978,
+      0.5704763955379507
+    ],
+    "span_years": [
+      -0.26277523247004747,
+      0.32775918365746387
+    ]
+  },
+  "ipw_coef": {
+    "comments": 0.06705539069331626,
+    "reactions": -0.07508718676675025,
+    "participants": 0.8298925085371446,
+    "related_items": 0.5255581354765765,
+    "span_years": 0.11020915429528286
+  },
+  "sign95": {
+    "comments": "+",
+    "reactions": "0",
+    "participants": "0",
+    "related_items": "0",
+    "span_years": "0"
+  },
+  "fitted_weights": {
+    "comments": 1.222,
+    "reactions": 0.0,
+    "participants": 3.089,
+    "related_items": 2.778,
+    "span_years": 0.411
+  },
+  "sparse_weights": {
+    "comments": 7.5,
+    "reactions": 0.0,
+    "participants": 0.0,
+    "related_items": 0.0,
+    "span_years": 0.0
+  },
+  "loglik": {
+    "raw": -115.60341993276175,
+    "log1p": -111.02242391070733
+  }
+}
