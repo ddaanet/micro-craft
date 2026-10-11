@@ -1,0 +1,328 @@
+[
+ {
+  "slot": 1,
+  "number": 632,
+  "raters": [
+   {
+    "rater": "C",
+    "verdict": "signal",
+    "topic": "line-wrap-options",
+    "confidence": "medium",
+    "why": "Detailed evidence of softwrap/scrollmargin interaction bugs, closed via a linked scrolling fix."
+   },
+   {
+    "rater": "D",
+    "verdict": "no-signal",
+    "topic": "-",
+    "confidence": "high",
+    "why": "Long frustrated complaint about softwrap scrolling with no maintainer engagement or stated rationale in this render."
+   }
+  ]
+ },
+ {
+  "slot": 2,
+  "number": 1410,
+  "raters": [
+   {
+    "rater": "D",
+    "verdict": "no-signal",
+    "topic": "-",
+    "confidence": "high",
+    "why": "Merged feature PR with only casual approval comments, no discussion of design rationale or alternatives."
+   }
+  ]
+ },
+ {
+  "slot": 3,
+  "number": 731,
+  "raters": [
+   {
+    "rater": "B",
+    "verdict": "no-signal",
+    "topic": "-",
+    "confidence": "high",
+    "why": "Feature request resolved by a linked PR; no discussion of design tradeoffs in this thread."
+   }
+  ]
+ },
+ {
+  "slot": 4,
+  "number": 2101,
+  "raters": [
+   {
+    "rater": "G",
+    "verdict": "no-signal",
+    "topic": "-",
+    "confidence": "high",
+    "why": "Root cause was docker's Ctrl-p/Ctrl-q detach sequence, not a micro design issue."
+   }
+  ]
+ },
+ {
+  "slot": 5,
+  "number": 3160,
+  "raters": [
+   {
+    "rater": "E",
+    "verdict": "signal",
+    "topic": "new:split-pane-behavior",
+    "confidence": "medium",
+    "why": "Maintainer can't reproduce the crash but identifies real design flaws in Unsplit's undocumented, seemingly useless behavior."
+   }
+  ]
+ },
+ {
+  "slot": 6,
+  "number": 1115,
+  "raters": [
+   {
+    "rater": "A",
+    "verdict": "signal",
+    "topic": "new:regex-replace-capture-groups",
+    "confidence": "high",
+    "why": "Contributors dissect two real causes (shell-var expansion, missing capture expansion) and debate the $ escaping design."
+   }
+  ]
+ },
+ {
+  "slot": 7,
+  "number": 1881,
+  "raters": [
+   {
+    "rater": "B",
+    "verdict": "no-signal",
+    "topic": "-",
+    "confidence": "medium",
+    "why": "Owner offers a VISUAL=micro workaround; no rationale given on select-editor integration itself."
+   }
+  ]
+ },
+ {
+  "slot": 8,
+  "number": 1412,
+  "raters": [
+   {
+    "rater": "B",
+    "verdict": "no-signal",
+    "topic": "-",
+    "confidence": "high",
+    "why": "Mechanical syntax-file addition PR, merged without any comment."
+   }
+  ]
+ },
+ {
+  "slot": 9,
+  "number": 51,
+  "raters": [
+   {
+    "rater": "B",
+    "verdict": "no-signal",
+    "topic": "-",
+    "confidence": "high",
+    "why": "Community chat-room request; owner just confirms it's set up, no design content."
+   }
+  ]
+ },
+ {
+  "slot": 10,
+  "number": 3069,
+  "raters": [
+   {
+    "rater": "D",
+    "verdict": "signal",
+    "topic": "new:pane-gutter-width-calculation",
+    "confidence": "medium",
+    "why": "PR explains and fixes flawed gutter/bufWidth/scrollbar arithmetic that let the ruler overwrite neighboring split panes."
+   }
+  ]
+ },
+ {
+  "slot": 11,
+  "number": 980,
+  "raters": [
+   {
+    "rater": "D",
+    "verdict": "no-signal",
+    "topic": "-",
+    "confidence": "high",
+    "why": "Trivial typo/duplicate-line report in lua.go with no discussion."
+   }
+  ]
+ },
+ {
+  "slot": 12,
+  "number": 576,
+  "raters": [
+   {
+    "rater": "C",
+    "verdict": "no-signal",
+    "topic": "-",
+    "confidence": "high",
+    "why": "Bug report with proposed fixes but no maintainer engagement or discussion recorded."
+   }
+  ]
+ },
+ {
+  "slot": 13,
+  "number": 3993,
+  "raters": [
+   {
+    "rater": "E",
+    "verdict": "signal",
+    "topic": "new:core-vs-plugin-scope",
+    "confidence": "medium",
+    "why": "Maintainers explain why nerd-font icons belong in a plugin, not core, and describe plugin-ecosystem restructuring plans."
+   }
+  ]
+ },
+ {
+  "slot": 14,
+  "number": 867,
+  "raters": [
+   {
+    "rater": "E",
+    "verdict": "no-signal",
+    "topic": "-",
+    "confidence": "high",
+    "why": "Feature request closed by pointing to another issue already covering it; no rationale or design discussion."
+   }
+  ]
+ },
+ {
+  "slot": 15,
+  "number": 1451,
+  "raters": [
+   {
+    "rater": "A",
+    "verdict": "signal",
+    "topic": "new:openbsd-pledge-sandboxing",
+    "confidence": "medium",
+    "why": "(run-1 pooled label)"
+   }
+  ]
+ },
+ {
+  "slot": 16,
+  "number": 2759,
+  "raters": [
+   {
+    "rater": "C",
+    "verdict": "no-signal",
+    "topic": "-",
+    "confidence": "low",
+    "why": "(run-1 pooled label)"
+   }
+  ]
+ },
+ {
+  "slot": 17,
+  "number": 1660,
+  "raters": [
+   {
+    "rater": "B",
+    "verdict": "no-signal",
+    "topic": "-",
+    "confidence": "high",
+    "why": "Owner explains existing mkparents error message; thread is support Q&A pointing at docs, no new rationale."
+   }
+  ]
+ },
+ {
+  "slot": 18,
+  "number": 3281,
+  "raters": [
+   {
+    "rater": "D",
+    "verdict": "signal",
+    "topic": "new:syntax-highlighter-acceptance-policy",
+    "confidence": "low",
+    "why": "Maintainer defers merging a syntax file until the underlying language stabilizes, a small scoping rationale."
+   },
+   {
+    "rater": "F",
+    "verdict": "no-signal",
+    "topic": "-",
+    "confidence": "medium",
+    "why": "Mechanical syntax-file PR deferred one line because Carbon is still experimental; no lasting policy stated."
+   }
+  ]
+ },
+ {
+  "slot": 19,
+  "number": 3096,
+  "raters": [
+   {
+    "rater": "G",
+    "verdict": "signal",
+    "topic": "settings-reload-semantics",
+    "confidence": "high",
+    "why": "Maintainer explains settings.json is regenerated at startup and can't change due to plugin compatibility."
+   }
+  ]
+ },
+ {
+  "slot": 20,
+  "number": 2168,
+  "raters": [
+   {
+    "rater": "A",
+    "verdict": "no-signal",
+    "topic": "-",
+    "confidence": "high",
+    "why": "(run-1 pooled label)"
+   }
+  ]
+ },
+ {
+  "slot": 21,
+  "number": 3848,
+  "raters": [
+   {
+    "rater": "B",
+    "verdict": "no-signal",
+    "topic": "-",
+    "confidence": "high",
+    "why": "(run-1 pooled label)"
+   }
+  ]
+ },
+ {
+  "slot": 22,
+  "number": 742,
+  "raters": [
+   {
+    "rater": "E",
+    "verdict": "no-signal",
+    "topic": "-",
+    "confidence": "medium",
+    "why": "Multi-year bug report; final maintainer comment just notes an unrelated fix and that the codebase was rewritten, no design position."
+   }
+  ]
+ },
+ {
+  "slot": 23,
+  "number": 509,
+  "raters": [
+   {
+    "rater": "B",
+    "verdict": "no-signal",
+    "topic": "-",
+    "confidence": "high",
+    "why": "Bare oversight bug (SaveAs missing from bindable actions), fixed without any design discussion."
+   }
+  ]
+ },
+ {
+  "slot": 24,
+  "number": 992,
+  "raters": [
+   {
+    "rater": "G",
+    "verdict": "no-signal",
+    "topic": "-",
+    "confidence": "medium",
+    "why": "Long debugging thread finds a plugin-callback ordering bug but reaches no decision or rationale."
+   }
+  ]
+ }
+]
