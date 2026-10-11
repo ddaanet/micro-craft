@@ -125,7 +125,7 @@ description: >
   against LSP here — his only adjacent remark is #174 2020-08-09, that
   tabnine "looks like it could be a good as a solution to more advanced
   autocompletion than what currently exists" — but neither has he taken one
-  for it. The substantive debate lives in #1138 (see the `lsp-support`
+  for it. The substantive debate lives in #1138 (see the `language-server-protocol`
   topic); the front line here is silence from standing, against sustained
   demand.
 

@@ -17,7 +17,7 @@ See NFR1 and NFR2.)*
 
 ## NFR
 
-1. **file-tree-sidebar.NFR1** — A file browser / tree sidebar is outside
+1. **file-browser-sidebar.NFR1** — A file browser / tree sidebar is outside
    the scope of micro's core. Micro is positioned as a lean terminal text
    editor competing with nano rather than with Atom/Sublime/VS Code, and
    the project treats "make it a file manager" as scope creep to be
@@ -34,7 +34,7 @@ See NFR1 and NFR2.)*
    bloat" — which is community sentiment, not standing, and is recorded
    here only because the standing-holder's statement echoes it.
 
-2. **file-tree-sidebar.NFR2** — The sanctioned answer to this class of
+2. **file-browser-sidebar.NFR2** — The sanctioned answer to this class of
    request is a plugin, and the project backs that route by hosting the
    resulting plugin under its own organization and distributing it through
    the plugin channel rather than folding it into core.

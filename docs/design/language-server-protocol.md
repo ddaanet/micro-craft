@@ -19,7 +19,7 @@ functional requirement to describe.
 
 ## NFR
 
-1. **lsp-support.NFR1** — Accumulated demand is not a scheduling input.
+1. **language-server-protocol.NFR1** — Accumulated demand is not a scheduling input.
    Interest is expressed through reactions on the opening post, and repeat
    "+1"/bump comments that carry no new information are explicitly
    unwelcome; volume of either kind confers no claim on maintainer time.
@@ -134,6 +134,6 @@ functional requirement to describe.
   the close, before or after.
 - 2024-02-23 – 2025-06-18: post-close tail. gabemeola (newcomer) muses about
   a "macro" fork with rich LSP and file-tree support (see the
-  `file-tree-sidebar` topic); dev-nicolaos (newcomer) cross-links discussion
+  `file-browser-sidebar` topic); dev-nicolaos (newcomer) cross-links discussion
   #3231 for visibility, which is where the conversation now lives. No
   maintainer statement in this period.
