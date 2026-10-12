@@ -1,0 +1,5 @@
+# fetch.jsonl is raw third-party content and stays unpublished; the cache
+# is rebuilt from the ledgers; packets/ is scratch for served triage packets.
+corpus/fetch.jsonl
+corpus/cache.sqlite
+corpus/packets/
