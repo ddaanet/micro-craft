@@ -1,0 +1,4 @@
+# The repository this corpus mirrors. Read by `ghmem sync` and by standing.
+owner = "micro-editor"
+repo = "micro"
+owner_login = "zyedidia"
