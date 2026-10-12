@@ -12,7 +12,7 @@ import sqlite3
 from pathlib import Path
 
 HERE = Path(__file__).parent
-CORPUS = HERE.parents[3] / "corpus"
+CORPUS = HERE.parents[1] / "corpus"
 BASE = {
     "comments": 1.0,
     "reactions": 0.5,

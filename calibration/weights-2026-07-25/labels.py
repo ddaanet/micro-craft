@@ -131,7 +131,7 @@ def corpus_untriaged() -> list[dict[str, str]]:
     import sqlite3
 
     rows = list(csv.DictReader(open(HERE / "heat.csv")))
-    con = sqlite3.connect(HERE.parents[3] / "corpus" / "cache.sqlite")
+    con = sqlite3.connect(HERE.parents[1] / "corpus" / "cache.sqlite")
     routed = {
         n
         for (n,) in con.execute(

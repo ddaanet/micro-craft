@@ -12,7 +12,7 @@ import sqlite3
 from pathlib import Path
 
 HERE = Path(__file__).parent
-CORPUS = HERE.parents[3] / "corpus"
+CORPUS = HERE.parents[1] / "corpus"
 SEED = 20260725
 STRATA = 8
 PER_STRATUM = 6

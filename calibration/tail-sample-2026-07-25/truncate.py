@@ -13,7 +13,7 @@ import sqlite3
 from pathlib import Path
 
 HERE = Path(__file__).parent
-CORPUS = HERE.parents[3] / "corpus"
+CORPUS = HERE.parents[1] / "corpus"
 BATCH_ITEMS = 12
 BATCH_CHARS = 200_000
 

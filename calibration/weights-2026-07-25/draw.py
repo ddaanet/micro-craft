@@ -40,7 +40,7 @@ import sqlite3
 from pathlib import Path
 
 HERE = Path(__file__).parent
-CORPUS = HERE.parents[3] / "corpus"
+CORPUS = HERE.parents[1] / "corpus"
 PRIOR = HERE.parent / "tail-sample-2026-07-25"
 SEED = 202607252
 METRICS = ["comments", "reactions", "participants", "related_items", "span_years"]

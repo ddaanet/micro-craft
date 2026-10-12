@@ -14,7 +14,7 @@ from itertools import combinations, pairwise
 from pathlib import Path
 
 HERE = Path(__file__).parent
-CORPUS = HERE.parents[3] / "corpus"
+CORPUS = HERE.parents[1] / "corpus"
 METRICS = ["comments", "reactions", "participants", "related_items", "span_years"]
 
 rows = list(csv.DictReader(open(HERE / "heat.csv")))
