@@ -3,3 +3,4 @@
 corpus/fetch.jsonl
 corpus/cache.sqlite
 corpus/packets/
+.claude/settings.local.json
