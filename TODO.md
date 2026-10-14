@@ -14,17 +14,6 @@
 
 ## Repo setup (repo-split 5.1–5.2)
 
-- [ ] Tell micro's session that `ghmem-operating-the-pipeline` has landed
-  once the commit is in. micro removes its own `ghmem-project`,
-  `ghmem-ongoing-sync-not-snapshot` and `sqlalchemy-uow-hides-mutations`
-  only after this fact and ghmem's both exist.
-- [ ] Enable `ghmem@ddaanet` in `.claude/settings.json` (`enabledPlugins`; the
-  auto-mode classifier refuses the write, so it is `/plugin install` from
-  the user's own shell).
-- [ ] Probe containment from the marketplace install (plan line 284 of
-  micro's repo-split plan): method and expected verdicts are in
-  `inbox/brief-memory-and-containment-probe.md` §2. Dispatch no ghmem
-  worker here until it passes.
 - [ ] Add a README and editor configs.
 - [ ] `memory/MEMORY.md` is past the loader cutoff (~24,985 bytes), mostly
   the `ddaanet` tier's own block. Curate with `/gitlore:index-audit`.
